@@ -1,3 +1,5 @@
+import { colors } from './src/utils/colors';
+
 export default {
   content: [
     "./index.html",
